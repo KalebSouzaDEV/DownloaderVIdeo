@@ -33,3 +33,34 @@ body {
     display: flex;
     gap: 20px;
 }
+
+.video-founded {
+    margin-top: 50px;
+    display: flex;
+
+}
+
+.video-founded img{
+    height: 150px;
+    width: 200px;
+}
+
+.video-founded h3 {
+    color: white;
+}
+
+.founded-actions {
+    padding-left: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.founded-actions button {
+    cursor: pointer;
+    background-color: rgb(203, 38, 87);
+    color: white;
+    height: 30px;
+    border-radius: 20px;
+    text-decoration: none;
+}
